@@ -5,7 +5,7 @@ import time
 import urllib.request as urllib
 from multiprocessing import Process
 
-addresses = ['rub_1998', 'id269609110']
+addresses = ['rub_1998']
 
 last_status = 1
 last_status_mobile = 1
